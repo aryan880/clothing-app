@@ -6,7 +6,7 @@ import "./homepage.scss"
 function homepage() {
   return (
     <div className="homepage">
-      <Directory/>
+      <Directory />
     </div>
   )
 }
