@@ -1,5 +1,5 @@
 import React from 'react'
-import PreviewCollection from '../preview-collection/preview-collection';
+import PreviewCollection from "../../components/preview-collection/preview-collection.jsx";
 import SHOP_DATA from "./shop.data"
 
 function Shop() {
